@@ -1,6 +1,6 @@
-I’m Bibhash Nath currently working for New York City Emergency Management. This is my personal github page. The repository are my personal.
+I’m Bibhash Nath currently working for New York City Emergency Management. This is my personal github page. The repositories are my personal.
 I’m interested in Geospatial data science, ArcGIS API for Python, Machine learning application in environmental science.
-I’m currently learning JavaScript for GIS web application.
+I’m currently learning JavaScript for a GIS web application. My academic pages can be found here: https://scholar.google.com/citations?user=BFD0uboAAAAJ&hl=en
 I can be reached at bibhash12@gmail.com
 
 <!---
